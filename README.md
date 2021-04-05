@@ -8,4 +8,4 @@ You can run this online, and offline(support coming soon)
 =============
 Two Modes To Run...
 ext - https://chrome.google.com/webstore/detail/flashplayer-swf-to-html/nodnmpgjlnclahkmgjiinfjklgbbgecg
-web - COMING SOON
+web - optional(built - in [buttom to switch] )
